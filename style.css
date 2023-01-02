@@ -762,11 +762,16 @@ h4 {
     color: #FFFFFF!important;
 }
 .contrate1 {
-    background-color: #8F340A;
+    color: #171717;
     padding: 1%;
 }
-.contraste2 {
+<<<<<<< HEAD
+.contraste2 ul li {
     background-color: #F1C2B6;
+=======
+.contraste2 {
+    background-color: #1A1A1A;
+>>>>>>> parent of 88a25d3 (contraste n°5)
     padding: 1%;
 }
 
