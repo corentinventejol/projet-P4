@@ -761,6 +761,9 @@ h4 {
 .white {
     color: #FFFFFF!important;
 }
+.black {
+    color: #000000;
+}
 .contrate1 {
     color: #171717;
     padding: 1%;
