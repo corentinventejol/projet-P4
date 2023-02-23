@@ -7,6 +7,10 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+a:focus,
+img:focus {
+    border: 2px solid blue;
+}
 a,
 button {
     transition: all .3s ease-in-out;
