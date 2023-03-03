@@ -14,7 +14,6 @@ img:focus {
 a,
 button::focus {
     transition: all .3s ease-in-out;
-    outline: none!important;
 }
 
 a:hover {
@@ -464,8 +463,8 @@ nav .caret {
     background: rgba(0, 0, 0, .3);
 }
 
-button {
-    outline: none!important;
+.btn:focus {
+    outline: 3px solid blue;
 }
 
 .btn-rd {
